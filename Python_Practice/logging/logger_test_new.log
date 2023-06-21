@@ -1,0 +1,21 @@
+2022-11-14 15:07:10,327 : DEBUG : Add: 20 + 10 = 30
+2022-11-14 15:07:10,328 : DEBUG : Sub: 20 - 10 = 10
+2022-11-14 15:07:10,328 : DEBUG : Mul: 20 * 10 = 200
+2022-11-14 15:07:10,328 : DEBUG : Div: 20 / 10 = 2.0
+2022-11-14 15:13:07,840 : ERROR : Tried to divice by zero.
+2022-11-14 15:13:25,704 : ERROR : Tried to divide by zero.
+2022-11-14 15:16:47,402 : ERROR : Tried to divide by zero.
+Traceback (most recent call last):
+  File "/Users/shafinsaapel/tensorflow-test/CODE/Python/logging/4.logging.py", line 165, in divide
+    result = x/y
+ZeroDivisionError: division by zero
+2022-11-14 15:22:40,192 : ERROR : Tried to divide by zero.
+Traceback (most recent call last):
+  File "/Users/shafinsaapel/tensorflow-test/CODE/Python/logging/4.logging.py", line 238, in divide
+    result = x/y
+ZeroDivisionError: division by zero
+2022-11-14 15:23:54,261 : ERROR : Tried to divide by zero.
+Traceback (most recent call last):
+  File "/Users/shafinsaapel/tensorflow-test/CODE/Python/logging/4.logging.py", line 238, in divide
+    result = x/y
+ZeroDivisionError: division by zero

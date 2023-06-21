@@ -1,0 +1,18 @@
+## Errors:
+
+1. NameError: it occurs when - 
+    a. Misspelled variable name; 
+    b.Misspelled variable name; 
+    c. Missing import statement()[for example: If we don't import a module but use the module name]
+
+
+2. AtrributeError: It occurs when - 
+    Misspelled a constant or a call to a function in a module (the part after the period)[for example: if we misspell or case insensitively use a modules attribute like instead of 'math.pi' if we use 'math.Pi'
+
+3. TypeError: It occurs when- 
+    a. we don't put all the arguments required on a function; 
+    b. if we assign values that are not compatible
+
+4. SyntaxError: It occurs when- 
+    a. we don't follow the proper python syntaxes, like using ":" after function or conditionals or in loops.
+    b. using assingments instead of comparison operators
